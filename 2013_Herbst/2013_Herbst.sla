@@ -108,11 +108,6 @@
         <CHARSTYLE CNAME="Seitenueberschrift" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FCOLOR="Rich Black" KERN="0"/>
         <CHARSTYLE CNAME="NvM_Standard" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="100" TXTULW="100" TXTSTP="100" TXTSTW="100" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" SHORTCUT="Ctrl+Shift+M"/>
         <CHARSTYLE CNAME="Standard-Zeichenstil" DefaultStyle="1" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FCOLOR="Black" KERN="0" SHORTCUT="Ctrl+Shift+M"/>
-        <CHARSTYLE CNAME="Kopie von Default Character Style (1)" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="100" TXTULW="100" TXTSTP="100" TXTSTW="100" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
-        <CHARSTYLE CNAME="Kopie von VeranstalltungsMonat (1)" CPARENT="Kopie von Default Character Style (1)" FONT="Frutiger LT 55 Roman Bold" FONTSIZE="12" FCOLOR="Black" SHORTCUT="Ctrl+Shift+M"/>
-        <CHARSTYLE CNAME="Kopie von Veranstalltungszeile (1)" CPARENT="Kopie von Default Character Style (1)" FONTSIZE="7" SHORTCUT="Ctrl+M"/>
-        <CHARSTYLE CNAME="Kopie von Überschrift 1 (1)" CPARENT="Kopie von Default Character Style (1)" FONT="Frutiger LT 55 Roman Bold" FONTSIZE="13"/>
-        <CHARSTYLE CNAME="Kopie von Überschrift 2 (1)" CPARENT="Kopie von Überschrift 1 (1)" FONT="Frutiger LT 55 Roman Bold" FONTSIZE="11"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="3" PDLanguage="3" markOffset="5" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="HP_LaserJet_3200M" filename="" separationName="Alle" printerCommand="">
             <Separation Name="Cyan"/>
@@ -558,7 +553,7 @@
             <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="26" PTYPE="4" XPOS="447.53" YPOS="9270.71" WIDTH="375.026390977444" HEIGHT="393.959172932331" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="11" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Frutiger LT 55 Roman Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Veranstaltungskalender" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375.026 0 375.026 0 375.026 0 375.026 0 375.026 393.959 375.026 393.959 375.026 393.959 375.026 393.959 0 393.959 0 393.959 0 393.959 0 393.959 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375.026 0 375.026 0 375.026 0 375.026 0 375.026 393.959 375.026 393.959 375.026 393.959 375.026 393.959 0 393.959 0 393.959 0 393.959 0 393.959 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="26" PTYPE="4" XPOS="447.53" YPOS="9270.71" WIDTH="375.026390977444" HEIGHT="513.790000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="11" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Frutiger LT 55 Roman Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Veranstaltungskalender" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375.026 0 375.026 0 375.026 0 375.026 0 375.026 513.79 375.026 513.79 375.026 513.79 375.026 513.79 0 513.79 0 513.79 0 513.79 0 513.79 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375.026 0 375.026 0 375.026 0 375.026 0 375.026 513.79 375.026 513.79 375.026 513.79 375.026 513.79 0 513.79 0 513.79 0 513.79 0 513.79 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Veranstaltungskalender "/>
             <para PARENT="VeranstaltungsMonat"/>
             <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="jeden Mo + Mi ausser Schulferien"/>
@@ -573,300 +568,8 @@
             <tab FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0"/>
             <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Unterkilchen Mollis"/>
             <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Juni 2013"/>
-            <para PARENT="VeranstaltungsMonat"/>
-            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Do - So"/>
-            <tab FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0"/>
-            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="20.-23."/>
-            <tab FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0"/>
-            <tab FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0"/>
-            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Turnende Vereine Mollis"/>
-            <tab FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0"/>
-            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Eidgenöss. Turnfest"/>
-            <tab FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0"/>
-            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Bie"/>
-            <ITEXT CH="l"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Do - So"/>
-            <tab/>
-            <ITEXT CH="20. - 23."/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="Eidgenöss. Turnfest Biel"/>
-            <tab/>
-            <ITEXT CH="Turnende Vereine"/>
-            <tab/>
-            <ITEXT CH="Mollis "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Sonntag"/>
-            <tab/>
-            <ITEXT CH="23."/>
-            <tab/>
-            <ITEXT CH="ca. 17.00"/>
-            <tab/>
-            <ITEXT CH="Eidgen.Turnfest"/>
-            <tab/>
-            <ITEXT CH="EMPFANG der Turner"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Dienstag"/>
-            <tab/>
-            <ITEXT CH="25."/>
-            <tab/>
-            <ITEXT CH="20.00"/>
-            <tab/>
-            <ITEXT CH="Samariterverein Mollis"/>
-            <tab/>
-            <ITEXT CH="Monatsübung"/>
-            <tab/>
-            <ITEXT CH="Sek-Schulhaus "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Freitag"/>
-            <tab/>
-            <ITEXT CH="28."/>
-            <tab/>
-            <ITEXT CH="20.00"/>
-            <tab/>
-            <ITEXT CH="Landfrauen Bräteln ?"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Samstag "/>
-            <tab/>
-            <ITEXT CH="29."/>
-            <tab/>
-            <ITEXT CH="17.00"/>
-            <tab/>
-            <ITEXT CH="Männer-Turnverein"/>
-            <tab/>
-            <ITEXT CH="Risottoabend"/>
-            <tab/>
-            <ITEXT CH="Steinacherpl. Mollis "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="August 2013 "/>
-            <para PARENT="VeranstaltungsMonat"/>
-            <ITEXT CH="Donnerstag"/>
-            <tab/>
-            <ITEXT CH="01."/>
-            <tab/>
-            <ITEXT CH="17.00"/>
-            <tab/>
-            <ITEXT CH="Skiclub Mollis"/>
-            <tab/>
-            <ITEXT CH="Höhenfeuer Fronalp"/>
-            <tab/>
-            <ITEXT CH="Fronalpstock "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Donnerstag"/>
-            <tab/>
-            <ITEXT CH="01"/>
-            <tab/>
-            <ITEXT CH="09.00"/>
-            <tab/>
-            <ITEXT CH=" Verkehrsverein Näfels"/>
-            <tab/>
-            <ITEXT CH="Nationalfeier"/>
-            <tab/>
-            <ITEXT CH="Freulergarten "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Sa. + So."/>
-            <tab/>
-            <ITEXT CH="03. + 04."/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="Schwimm- u. Wanderclub"/>
-            <tab/>
-            <ITEXT CH="Volksmarsch"/>
-            <tab/>
-            <ITEXT CH="MZH Mollis "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Freitag"/>
-            <tab/>
-            <ITEXT CH="16."/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="Skiclub Mollis"/>
-            <tab/>
-            <ITEXT CH="Armbrust-Schiessen"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Mittwoch"/>
-            <tab/>
-            <ITEXT CH="21."/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="VeloClub Mollis"/>
-            <tab/>
-            <ITEXT CH="Wurst+Brot-Rennen"/>
-            <tab/>
-            <ITEXT CH="Waid-Schlattrank "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Sonntag"/>
-            <tab/>
-            <ITEXT CH="25."/>
-            <tab/>
-            <ITEXT CH="09.00"/>
-            <tab/>
-            <ITEXT CH="Männerturnverein Mollis"/>
-            <tab/>
-            <ITEXT CH="British-Car Meeting"/>
-            <tab/>
-            <ITEXT CH="Flugplatz "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Dienstag"/>
-            <tab/>
-            <ITEXT CH="27."/>
-            <tab/>
-            <ITEXT CH="20.00"/>
-            <tab/>
-            <ITEXT CH="Samariterverein Mollis"/>
-            <tab/>
-            <ITEXT CH="Monatsübung"/>
-            <tab/>
-            <ITEXT CH="Sek-Schulhaus "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Freitag"/>
-            <tab/>
-            <ITEXT CH="30."/>
-            <tab/>
-            <ITEXT CH="20.00"/>
-            <tab/>
-            <ITEXT CH="Landfrauen Mollis"/>
-            <tab/>
-            <ITEXT CH="Zusammenkunft"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Samstag"/>
-            <tab/>
-            <ITEXT CH="31."/>
-            <tab/>
-            <ITEXT CH="15.00"/>
-            <tab/>
-            <ITEXT CH="Rebzunft Mollis"/>
-            <tab/>
-            <ITEXT CH="Jubiläum 25. Jahr"/>
-            <tab/>
-            <ITEXT CH="Haltliterrasse"/>
-            <para PARENT="Veranstaltungszeile"/>
             <ITEXT CH="September 2013 "/>
             <para PARENT="VeranstaltungsMonat"/>
-            <ITEXT CH="Fr. - So."/>
-            <tab/>
-            <ITEXT CH="06. - 08."/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="Hunterverein"/>
-            <tab/>
-            <ITEXT CH="Zigermeet Flugshow"/>
-            <tab/>
-            <ITEXT CH="Flugplatz"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Samstag"/>
-            <tab/>
-            <ITEXT CH="07."/>
-            <tab/>
-            <ITEXT CH="14.00"/>
-            <tab/>
-            <ITEXT CH="Verkehrsverein Mollis"/>
-            <tab/>
-            <ITEXT CH="Dorf-Führung"/>
-            <tab/>
-            <ITEXT CH="Haltli Mollis "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Sonntag"/>
-            <tab/>
-            <ITEXT CH="08."/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="Frauenturnverein Mollis"/>
-            <tab/>
-            <ITEXT CH="Vereinsausflug"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Mittwoch"/>
-            <tab/>
-            <ITEXT CH="11."/>
-            <tab/>
-            <ITEXT CH="13.30-15.30"/>
-            <tab/>
-            <ITEXT CH="Familientreff Summervogel"/>
-            <tab/>
-            <ITEXT CH="Bastelnachmittag"/>
-            <tab/>
-            <ITEXT CH="Unterkilchen Mollis "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Donnerstag"/>
-            <tab/>
-            <ITEXT CH="12."/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="Landfrauen Mollis"/>
-            <tab/>
-            <ITEXT CH="Herbstausflug"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Samstag"/>
-            <tab/>
-            <ITEXT CH="14. "/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="Fischerverein"/>
-            <tab/>
-            <ITEXT CH="Bachputzetä"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Freitag"/>
-            <tab/>
-            <ITEXT CH="20."/>
-            <tab/>
-            <ITEXT CH="09.00-11.00"/>
-            <tab/>
-            <ITEXT CH="Familientreff Summervogel"/>
-            <tab/>
-            <ITEXT CH="Mitarbeiterinnentreffen"/>
-            <tab/>
-            <ITEXT CH="Unterkilchen Mollis "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Fr. + Sa."/>
-            <tab/>
-            <ITEXT CH="20. + 21."/>
-            <tab/>
-            <ITEXT CH="19.00"/>
-            <tab/>
-            <ITEXT CH="Samariterverein Mollis"/>
-            <tab/>
-            <ITEXT CH="Nothilfekurs"/>
-            <tab/>
-            <ITEXT CH="Sek-Schulhaus "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Samstag"/>
-            <tab/>
-            <ITEXT CH="21."/>
-            <tab/>
-            <ITEXT CH="14.00"/>
-            <tab/>
-            <ITEXT CH="Schützen Mollis"/>
-            <tab/>
-            <ITEXT CH="Endschiessen"/>
-            <tab/>
-            <ITEXT CH="Feldbach,Mollis "/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Samstag"/>
-            <tab/>
-            <ITEXT CH="21."/>
-            <tab/>
-            <ITEXT CH="08.00"/>
-            <tab/>
-            <ITEXT CH="Skilift Schilt"/>
-            <tab/>
-            <ITEXT CH="Pistensäuberung"/>
-            <tab/>
-            <ITEXT CH="Fronalp"/>
-            <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Dienstag"/>
-            <tab/>
-            <ITEXT CH="24."/>
-            <tab/>
-            <ITEXT CH="20.00"/>
-            <tab/>
-            <ITEXT CH="Samariterverein"/>
-            <tab/>
-            <ITEXT CH="Mollis Monatsübung"/>
-            <tab/>
-            <ITEXT CH="Sek-Schulhaus "/>
-            <para PARENT="Veranstaltungszeile"/>
             <ITEXT CH="Freitag"/>
             <tab/>
             <ITEXT CH="27."/>
@@ -890,18 +593,327 @@
             <tab/>
             <ITEXT CH="MZH"/>
             <para PARENT="Veranstaltungszeile"/>
-            <ITEXT CH="Samstag"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="28."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="13.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Schützen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chilbischiessen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Feldbach,Mollis "/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="Oktober 2013"/>
+            <para PARENT="VeranstaltungsMonat"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="02."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="13.30-15.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bastelnachmittag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Unterkilchen Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="23."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Altkleidersammlung"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="23"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Verkehrsvereine Mollis/Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Präsidentenkonferenz"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Löwen, Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="25."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="19.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Landfrauen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Jubiläums-HV"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bären Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="26."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Skiclub Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Hauptversammlung"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="?"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Dienstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="29."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Monatsübung"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Sek-Schulhaus"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Donnerstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="31."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="18.15"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Halloween-Umzug"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Steinacherplatz"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="November"/>
             <tab/>
-            <ITEXT CH="28."/>
-            <tab/>
-            <ITEXT CH="13.00"/>
-            <tab/>
-            <ITEXT CH="Schützen Mollis"/>
-            <tab/>
-            <ITEXT CH="Chilbischiessen"/>
-            <tab/>
-            <ITEXT CH="Feldbach,Mollis "/>
-            <trail PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="2013"/>
+            <para PARENT="VeranstaltungsMonat"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="06."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="13.30-15.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bastelnachmittag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Unterkilchen"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="08."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Landfrauen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Speckjassen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Waid Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sa./So."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="09.+10. "/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Turnende Vereine Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chränzli"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="ZH Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="23."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Musikgesellschaft Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Jahreskonzert MZH Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Dienstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="26."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="MonatsübungSek-Schulhaus"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="27."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="13.30-15.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel Weihnachtsbasteln Unterkilchen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="29."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Frauenturnverein"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Hauptversammlung"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="29."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="19.30-22.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Adventskranzbinden"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Unterkilchen"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="30."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="17.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chlausgruppe Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chlauseinzug"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="30."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="ab 17.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Märt-Gruppe"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Würste bräteln"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="MZH Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="30."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="09.00-19.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Märt-Gruppe"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Weihnachtsmarkt"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="MZH Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="Dezember 2013"/>
+            <para PARENT="VeranstaltungsMonat"/>
+            <ITEXT FONTSIZE="7" CH="Dienstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="03."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chlaushock"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="04."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Frauenturnverein"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chlaushock "/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="04."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="13.30-15.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Weihnachtsbasteln"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Unterkilche"/>
+            <ITEXT CH="n"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="06."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Landfrauen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chlaushock"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Waid"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="07."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="08.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Nothilfekurs e-learning"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Sek-Schulhaus"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="07."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="10.00-17.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Kerzenziehen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Unterkilchen"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Dienstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="24. "/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="ab 17.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Musikgesellschaft Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Weihnachtsmusik"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="im Dorf Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mo/Di"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="30./31"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="02.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Silvesterschellner"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Jahrausschellen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bergersplatz"/>
+            <para PARENT="Veranstaltungszeile"/>
             <Tabs Type="1" Pos="74" Fill=""/>
             <Tabs Type="1" Pos="101" Fill=""/>
             <Tabs Type="1" Pos="167" Fill=""/>
@@ -1055,13 +1067,6 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT FONT="Frutiger LT 55 Roman Bold" CH="www.chraenzli.tv-mollis.ch"/>
             <trail PARENT="Default Paragraph Style"/>
-            <Tabs Type="1" Pos="74" Fill=""/>
-            <Tabs Type="1" Pos="101" Fill=""/>
-            <Tabs Type="1" Pos="167" Fill=""/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="26" PTYPE="2" XPOS="694.5" YPOS="9633.41" WIDTH="104.25" HEIGHT="149.59" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0404734848484849" LOCALSCY="0.0404734848484849" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Bilder/SM-2013 (239).JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 104.25 0 104.25 0 104.25 0 104.25 0 104.25 149.59 104.25 149.59 104.25 149.59 104.25 149.59 0 149.59 0 149.59 0 149.59 0 149.59 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 104.25 0 104.25 0 104.25 0 104.25 0 104.25 149.59 104.25 149.59 104.25 149.59 104.25 149.59 0 149.59 0 149.59 0 149.59 0 149.59 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
             <Tabs Type="1" Pos="74" Fill=""/>
             <Tabs Type="1" Pos="101" Fill=""/>
             <Tabs Type="1" Pos="167" Fill=""/>
