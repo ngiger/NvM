@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SCRIBUSUTF8NEW Version='1.4.0.rc2'>
+    <DOCUMENT KEYWORDS='' PUBLISHER='' GUIDELOCK='0' BORDERRIGHT='40' GuideRad='10' DPInCMYK='Fogra27L CMYK Coated Press' GROUPC='1' MARGC='#0000ff' BACKG='1' ScratchTop='20' MAJGRID='100' PAGEHEIGHT='841.89' SHOWLINK='0' SHOWLAYERM='0' SnapToGrid='0' PENSHADE='100' TextBackGround='None' BRUSH='Black' AUTOCHECK='0' SHOWFRAME='1' currentProfile='PostScript' UNITS='0' COMMENTS='' EmbeddedPath='0' MAGMAX='3200' PICTSHADE='100' POLYFD='0' DISc='1' DOCRIGHTS='' SHOWGUIDES='1' GRAB='4' UnderlinePos='-1' ANZPAGES='1' DOCCOVER='' EndArrow='0' dispX='10' DPMo='ECI-RGB.icc' PICTSCX='1' DGAP='0' DOCSOURCE='' BleedBottom='0' BORDERBOTTOM='40' dispY='10' TabWidth='36' constrain='15' ALAYER='0' BRUSHSHADE='100' PICTSCY='1' PSCALE='1' WIDTHLINE='1' DOCIDENT='' PAGESIZE='A4' GuideZ='10' CPICT='None' GapHorizontal='0' BASEGRID='14.4' SHOWBASE='0' DPuse='0' DPSo='0' VTIEFSC='66' DOCLANGINFO='' AutoSaveTime='600000' PENLINE='Black' StartArrow='0' DPPr='Fogra27L CMYK Coated Press' AUTOL='20' LANGUAGE='German' AUTOSPALTEN='1' DOCCONTRIB='' PRESET='0' DOCRELATION='' DSIZE='12' TextLineColor='None' HYCOUNT='2' ABSTSPALTEN='11' SHOWControl='0' PAGEWIDTH='595.28' MINWORDLEN='3' ScratchRight='100' TextBackGroundShade='100' PAGEC='#ffffff' DPbla='1' DFONT='Bitstream Charter Bold' POLYC='4' LINESHADE='100' MINGRID='20' POLYF='0.707' showcolborders='1' AutoSave='1' ScratchBottom='20' DOCDATE='' AUTOMATIC='1' TextPenShade='100' rulerYoffset='0' TextStrokeShade='100' showBleed='1' RANDF='0' BaseC='#c0c0c0' BASEO='0' TextLineShade='100' showrulers='1' VHOCH='33' VKAPIT='75' ORIENTATION='0' DPgam='0' MAGMIN='10' GuideC='#000080' PEN='Black' SnapToGuides='0' TITLE='' StrokeText='Black' STILLINE='1' BleedTop='0' DPIn2='ECI-RGB.icc' SHOWPICT='1' MAGSTEP='200' MINORC='#00ff00' POLYCUR='0' DPIn3='Fogra27L CMYK Coated Press' rulerXoffset='0' PENTEXT='Black' StrikeThruPos='-1' DPIn='ECI-RGB.icc' DPSFo='0' MAJORC='#00ff00' rulerMode='1' BOOK='1' HCMS='0' ScratchLeft='100' PASPECT='1' DCOL='1' TabFill='' DOCFORMAT='' GapVertical='40' POLYR='0' BleedRight='0' SHOWGRID='0' BleedLeft='0' FIRSTNUM='1' UnderlineWidth='-1' POLYS='0' STIL='1' HalfRes='1' AUTHOR='' DOCTYPE='' BORDERTOP='40' VTIEF='33' WIDTH='0' BORDERLEFT='40' SHOWMARGIN='1' DIIm='0' StrikeThruWidth='-1' VHOCHSC='66'>
+        <CheckProfile checkResolution='1' ignoreOffLayers='0' Name='PDF 1.3' autoCheck='1' checkTransparency='1' checkRasterPDF='1' checkOrphans='1' maxResolution='2400' checkGlyphs='1' checkForGIF='1' checkOverflow='1' checkAnnotations='0' ignoreErrors='0' checkPictures='1' checkOffConflictLayers='0' minResolution='144'/>
+        <CheckProfile checkResolution='1' ignoreOffLayers='0' Name='PDF 1.4' autoCheck='1' checkTransparency='0' checkRasterPDF='1' checkOrphans='1' maxResolution='2400' checkGlyphs='1' checkForGIF='1' checkOverflow='1' checkAnnotations='0' ignoreErrors='0' checkPictures='1' checkOffConflictLayers='0' minResolution='144'/>
+        <CheckProfile checkResolution='1' ignoreOffLayers='0' Name='PDF 1.5' autoCheck='1' checkTransparency='0' checkRasterPDF='1' checkOrphans='1' maxResolution='2400' checkGlyphs='1' checkForGIF='1' checkOverflow='1' checkAnnotations='0' ignoreErrors='0' checkPictures='1' checkOffConflictLayers='0' minResolution='144'/>
+        <CheckProfile checkResolution='1' ignoreOffLayers='0' Name='PDF/X-3' autoCheck='1' checkTransparency='1' checkRasterPDF='1' checkOrphans='1' maxResolution='2400' checkGlyphs='1' checkForGIF='1' checkOverflow='1' checkAnnotations='1' ignoreErrors='0' checkPictures='1' checkOffConflictLayers='0' minResolution='144'/>
+        <CheckProfile checkResolution='1' ignoreOffLayers='0' Name='PostScript' autoCheck='1' checkTransparency='1' checkRasterPDF='1' checkOrphans='1' maxResolution='2400' checkGlyphs='1' checkForGIF='1' checkOverflow='1' checkAnnotations='0' ignoreErrors='0' checkPictures='1' checkOffConflictLayers='0' minResolution='144'/>
+        <COLOR NAME='Black' Spot='0' Register='0' CMYK='#000000ff'/>
+        <COLOR NAME='Blue' RGB='#0000ff' Spot='0' Register='0'/>
+        <COLOR NAME='Cool Black' Spot='0' Register='0' CMYK='#990000ff'/>
+        <COLOR NAME='Cyan' Spot='0' Register='0' CMYK='#ff000000'/>
+        <COLOR NAME='Green' RGB='#00ff00' Spot='0' Register='0'/>
+        <COLOR NAME='Magenta' Spot='0' Register='0' CMYK='#00ff0000'/>
+        <COLOR NAME='Red' RGB='#ff0000' Spot='0' Register='0'/>
+        <COLOR NAME='Registration' Spot='0' Register='1' CMYK='#ffffffff'/>
+        <COLOR NAME='Rich Black' Spot='0' Register='0' CMYK='#996666ff'/>
+        <COLOR NAME='Warm Black' Spot='0' Register='0' CMYK='#00994cff'/>
+        <COLOR NAME='White' Spot='0' Register='0' CMYK='#00000000'/>
+        <COLOR NAME='Yellow' Spot='0' Register='0' CMYK='#0000ff00'/>
+        <HYPHEN/>
+        <STYLE DROPDIST='0' NAME='Default Paragraph Style' LINESPMode='0' RMARGIN='0' VOR='0' NACH='0' DROPLIN='2' ALIGN='0' DROP='0' INDENT='0' LINESP='15' DefaultStyle='1' FIRST='0'/>
+        <CHARSTYLE FEATURES='inherit' SCALEH='100' CNAME='Default Character Style' KERN='0' TXTULW='-0.1' SCALEV='100' SSHADE='100' TXTSTW='-0.1' BASEO='0' LANGUAGE='German' SCOLOR='Black' FONT='Bitstream Charter Bold' TXTSHX='5' TXTOUT='1' DefaultStyle='1' FONTSIZE='12' FCOLOR='Black' FSHADE='100' TXTSHY='-5' TXTULP='-0.1' TXTSTP='-0.1'/>
+        <LAYERS NUMMER='0' EDIT='1' NAME='Hintergrund' SICHTBAR='1' DRUCKEN='1' FLOW='1' LAYERC='#000000' LEVEL='0' BLEND='0' TRANS='1' OUTL='0'/>
+        <Printer useAltPrintCommand='163' mirrorH='0' cropMarks='0' useDocBleeds='0' BleedLeft='0' useICC='2' markOffset='0' firstUse='1' toFile='69' outputSeparations='2' mirrorV='0' doClip='0' bleedMarks='0' PDLanguage='0' doGCR='0' registrationMarks='0' BleedRight='0' useSpotColors='0' PSLevel='0' BleedBottom='0' printer='' colorMarks='144' BleedTop='0' filename='' useColor='0' setDevParam='0' includePDFMarks='121' separationName='' printerCommand=''/>
+        <PDF Articles='0' Quality='0' MirrorH='0' RotateDeg='0' BLeft='0' cropMarks='0' UseLayers='0' displayThumbs='0' hideMenuBar='0' useDocBleeds='1' Version='14' docInfoMarks='0' markOffset='0' firstUse='1' MirrorV='0' UseProfiles2='0' bleedMarks='0' fitWindow='0' PageLayout='0' Compress='1' PicRes='300' Intent2='0' BBottom='0' registrationMarks='0' PassOwner='' Permissions='-4' openAction='' Grayscale='0' Resolution='300' PrintP='Fogra27L CMYK Coated Press' hideToolBar='0' RecalcPic='0' BRight='0' displayLayers='0' Thumbnails='0' Bookmarks='0' Clip='0' RGBMode='1' SolidP='ECI-RGB.icc' colorMarks='0' ImagePr='0' Encrypt='0' UseSpotColors='1' displayBookmarks='0' CMethod='0' UseProfiles='0' BTop='0' PassUser='' Binding='0' InfoString='' displayFullscreen='0' PresentMode='0' Intent='1' ImageP='ECI-RGB.icc' UseLpi='0' doMultiFile='0'>
+            <LPI Color='Black' SpotFunction='3' Frequency='133' Angle='45'/>
+            <LPI Color='Cyan' SpotFunction='3' Frequency='133' Angle='105'/>
+            <LPI Color='Magenta' SpotFunction='3' Frequency='133' Angle='75'/>
+            <LPI Color='Yellow' SpotFunction='3' Frequency='133' Angle='90'/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set FirstPage='0' Columns='1' Name='Single Page' Rows='1'/>
+            <Set FirstPage='1' Columns='2' Name='Double Sided' Rows='1'>
+                <PageNames Name='Left Page'/>
+                <PageNames Name='Right Page'/>
+            </Set>
+            <Set FirstPage='0' Columns='3' Name='3-Fold' Rows='1'>
+                <PageNames Name='Left Page'/>
+                <PageNames Name='Middle'/>
+                <PageNames Name='Right Page'/>
+            </Set>
+            <Set FirstPage='0' Columns='4' Name='4-Fold' Rows='1'>
+                <PageNames Name='Left Page'/>
+                <PageNames Name='Middle Left'/>
+                <PageNames Name='Middle Right'/>
+                <PageNames Name='Right Page'/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number='0' Name='0' From='0' Start='1' Reversed='0' To='0' Active='1' Type='Type_1_2_3'/>
+        </Sections>
+        <MASTERPAGE BORDERTOP='40' LEFT='1' PRESET='0' AGhorizontalAutoCount='0' PAGEWIDTH='595.28' AGverticalAutoRefer='0' MNAM='' BORDERBOTTOM='40' Size='A4' PAGEXPOS='100' PAGEHEIGHT='841.89' NAM='Normal links' VerticalGuides='' AGverticalAutoGap='0' BORDERRIGHT='40' NUM='0' Orientation='0' AGhorizontalAutoGap='0' AGhorizontalAutoRefer='0' AGSelection='0 0 0 0' HorizontalGuides='' PAGEYPOS='20' BORDERLEFT='40' AGverticalAutoCount='0'/>
+        <MASTERPAGE BORDERTOP='40' LEFT='0' PRESET='0' AGhorizontalAutoCount='0' PAGEWIDTH='595.28' AGverticalAutoRefer='0' MNAM='' BORDERBOTTOM='40' Size='A4' PAGEXPOS='100' PAGEHEIGHT='841.89' NAM='Normal rechts' VerticalGuides='' AGverticalAutoGap='0' BORDERRIGHT='40' NUM='1' Orientation='0' AGhorizontalAutoGap='0' AGhorizontalAutoRefer='0' AGSelection='0 0 0 0' HorizontalGuides='' PAGEYPOS='20' BORDERLEFT='40' AGverticalAutoCount='0'/>
+        <PAGE BORDERTOP='40' LEFT='0' PRESET='0' AGhorizontalAutoCount='0' PAGEWIDTH='595.28' AGverticalAutoRefer='0' MNAM='Normal rechts' BORDERBOTTOM='40' Size='A4' PAGEXPOS='695.28' PAGEHEIGHT='841.89' NAM='' VerticalGuides='' AGverticalAutoGap='0' BORDERRIGHT='40' NUM='0' Orientation='0' AGhorizontalAutoGap='0' AGhorizontalAutoRefer='0' AGSelection='0 0 0 0' HorizontalGuides='' PAGEYPOS='20' BORDERLEFT='40' AGverticalAutoCount='0'/>
+        <PAGEOBJECT NUMCO='16' YPOS='122.25' TransValueS='0' BASEOF='0' gYpos='0' NUMDASH='0' GRTYP='0' PLINEJOIN='0' isTableItem='0' PWIDTH='0' PTYPE='4' FRTYPE='0' NUMPO='16' LeftLine='0' isInline='0' SHADE2='100' textPathType='0' EMBEDDED='1' ANNOTATION='0' Pagenumber='0' COLGAP='0' DASHOFF='0' PCOLOR='None' EXTRA='0' textPathFlipped='0' ROT='0' FLIPPEDV='0' TEXTFLOWMODE='0' PRINTABLE='1' WIDTH='269.25' SCALETYPE='1' RATIO='1' PLINEEND='0' GROUPS='' NAMEDLST='' ImageRes='1' LOCKR='0' BOOKMARK='0' REVERS='0' SHADE='100' gHeight='0' gWidth='0' BottomLine='0' HEIGHT='269.25' TransBlend='0' TransBlendS='0' COLUMNS='1' ANNAME='' LOCK='0' FLIPPEDH='0' OnMasterPage='' XPOS='763.5' CLIPEDIT='0' ImageClip='' TEXTRA='0' EPROF='' NUMGROUP='0' PFILE='' TopLine='0' FLOP='0' PCOLOR2='None' OwnPage='0' LOCALSCX='1' endArrowIndex='0' RightLine='0' BACKITEM='-1' LOCALX='0' TEXTFLOW='0' IRENDER='1' LOCALY='0' PRFILE='' REXTRA='0' PLTSHOW='0' LOCALSCY='1' startArrowIndex='0' NEXTITEM='-1' TEXTFLOW2='0' TEXTFLOW3='0' isGroupControl='0' doOverprint='0' gXpos='0' TransValue='0' PICART='1' RADRECT='0' AUTOTEXT='0' PLINEART='1' fillRule='1' PFILE2='' COCOOR='0 0 0 0 269.25 0 269.25 0 269.25 0 269.25 0 269.25 269.25 269.25 269.25 269.25 269.25 269.25 269.25 0 269.25 0 269.25 0 269.25 0 269.25 0 0 0 0 ' PFILE3='' BEXTRA='0' DASHS='' POCOOR='0 0 0 0 269.25 0 269.25 0 269.25 0 269.25 0 269.25 269.25 269.25 269.25 269.25 269.25 269.25 269.25 0 269.25 0 269.25 0 269.25 0 269.25 0 0 0 0 ' LAYER='0'>
+            <ITEXT CH='asdf'/>
+            <para/>
+            <ITEXT CH='asdf'/>
+            <para/>
+            <ITEXT CH='asdf'/>
+            <para/>
+            <ITEXT CH='asfd'/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

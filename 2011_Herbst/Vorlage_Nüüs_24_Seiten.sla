@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.0.rc5">
+    <DOCUMENT ANZPAGES="24" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A5" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="2" ABSTSPALTEN="11" UNITS="0" DFONT="Frutiger LT 55 Roman Regular" DSIZE="9" DCOL="2" DGAP="12" TabFill="" TabWidth="36" AUTHOR="Redaktionsteam Verkehrsverein Mollis" COMMENTS="Sommer 2011" KEYWORDS="" PUBLISHER="Verkehrsverein Mollis" DOCDATE="Juni 2011" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="Niklaus Giger&#10;Rolf Müller&#10;Markus Nöthiger" TITLE="Nüüs vu Mullis" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="10.8" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="German" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="1" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="0" showcolborders="0" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="0" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="0" showrulers="0" showBleed="0" rulerXoffset="0" rulerYoffset="7795.37" GuideRad="8" GRAB="4" POLYC="3" POLYF="0.5" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="0" ScratchLeft="0" ScratchRight="0" ScratchTop="0" GapHorizontal="0" GapVertical="113.39" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="Black" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="28.35" dispY="28.35" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="8" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Aqua" CMYK="#ff008c00" Spot="1" Register="0"/>
+        <COLOR NAME="Azur" CMYK="#cc0d0000" Spot="1" Register="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blau" CMYK="#ff800000" Spot="1" Register="0"/>
+        <COLOR NAME="Blau\012 1" CMYK="#d9ff0000" Spot="1" Register="0"/>
+        <COLOR NAME="Blaugrau" CMYK="#80664c00" Spot="1" Register="0"/>
+        <COLOR NAME="Blauviolett" CMYK="#bfe60000" Spot="1" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Braun" CMYK="#80d9ff00" Spot="1" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Dunkelblau" CMYK="#ffe61a00" Spot="1" Register="0"/>
+        <COLOR NAME="FromEPS#000000b2" CMYK="#000000b2" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#00ffff00" CMYK="#00ffff00" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#231f20" RGB="#231f20" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#bdbcbc" RGB="#bdbcbc" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#ffffff" RGB="#ffffff" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#000000" RGB="#000000" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#4d4d4d" RGB="#4d4d4d" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#b3b3b3" RGB="#b3b3b3" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#cccccc" RGB="#cccccc" Spot="0" Register="0"/>
+        <COLOR NAME="Gelb" CMYK="#0000ff00" Spot="1" Register="0"/>
+        <COLOR NAME="Gelbgr\237n" CMYK="#7300ff00" Spot="1" Register="0"/>
+        <COLOR NAME="Gold" CMYK="#0d33f200" Spot="1" Register="0"/>
+        <COLOR NAME="Gr\237n" CMYK="#ff8cff00" Spot="1" Register="0"/>
+        <COLOR NAME="Gr\237ngelb" CMYK="#3300ff00" Spot="1" Register="0"/>
+        <COLOR NAME="Grasgr\237n" CMYK="#bf0dff00" Spot="1" Register="0"/>
+        <COLOR NAME="Grasgr\374n" CMYK="#bf0dff00" Spot="1" Register="0"/>
+        <COLOR NAME="Grau" CMYK="#66666600" Spot="1" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Hellblau" CMYK="#ff800000" Spot="1" Register="0"/>
+        <COLOR NAME="Hellgr\237n" CMYK="#ff33ff00" Spot="1" Register="0"/>
+        <COLOR NAME="Himmelblau" CMYK="#ff662600" Spot="1" Register="0"/>
+        <COLOR NAME="Lila" CMYK="#73e60000" Spot="1" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Orange" CMYK="#0073ff00" Spot="1" Register="0"/>
+        <COLOR NAME="Orangegelb" CMYK="#0040ff00" Spot="1" Register="0"/>
+        <COLOR NAME="Orangerot" CMYK="#00b2ff00" Spot="1" Register="0"/>
+        <COLOR NAME="PANTONE Red 032 CV" CMYK="#00e8de00" Spot="1" Register="0"/>
+        <COLOR NAME="Pfirsich" CMYK="#00739900" Spot="1" Register="0"/>
+        <COLOR NAME="Pink" CMYK="#40ff4000" Spot="1" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Rosa" CMYK="#00800d00" Spot="1" Register="0"/>
+        <COLOR NAME="Rostbraun" CMYK="#66b2ff00" Spot="1" Register="0"/>
+        <COLOR NAME="Rot" CMYK="#26ffff00" Spot="1" Register="0"/>
+        <COLOR NAME="Signalrot" CMYK="#00e6ff00" Spot="1" Register="0"/>
+        <COLOR NAME="T\237rkis" CMYK="#cc0d0000" Spot="1" Register="0"/>
+        <COLOR NAME="Tannengr\374n" CMYK="#ff8cff00" Spot="1" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <COLOR NAME="[Passermarken]" CMYK="#ffffffff" Spot="1" Register="0"/>
+        <COLOR NAME="ciemnoszary" CMYK="#0000003b" Spot="0" Register="0"/>
+        <COLOR NAME="jasnoniebieski" CMYK="#6533001a" Spot="0" Register="0"/>
+        <COLOR NAME="jasnoszary" CMYK="#00000020" Spot="0" Register="0"/>
+        <COLOR NAME="pomarancz" CMYK="#006ece18" Spot="0" Register="0"/>
+        <COLOR NAME="undef" RGB="#966432" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="1" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="5" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" OpticalMargins="0" CPARENT="Standard-Zeichenstil">
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Seitenueberschrift" ALIGN="0" VOR="2" NACH="4" PSHORTCUT="Alt+N" FONT="FreeSans Oblique" FONTSIZE="16"/>
+        <STYLE NAME="Seitenummer" LINESP="12" PSHORTCUT="Alt+N" FONTSIZE="9"/>
+        <STYLE PARENT="Default Paragraph Style" PSHORTCUT="Alt+N"/>
+        <STYLE NAME="Ueberschrift_1" ALIGN="0" LINESPMode="1" LINESP="12" INDENT="0" FIRST="0" VOR="8" NACH="0" DROP="0" DROPLIN="0" DROPDIST="0" PSHORTCUT="Alt+N" CPARENT="Überschrift 1"/>
+        <STYLE NAME="Ueberschrift_2" PARENT="Ueberschrift_1" ALIGN="0" LINESPMode="1" LINESP="13" VOR="4" NACH="4" PSHORTCUT="Alt+2" CPARENT="Überschrift 2"/>
+        <STYLE NAME="Impressum_überschrift" ALIGN="0" LINESPMode="1" LINESP="11" VOR="6" DROP="0" PSHORTCUT="Alt+2" CPARENT="Standard-Zeichenstil" FONT="Frutiger LT 55 Roman Italic" FONTSIZE="9" FCOLOR="Black"/>
+        <STYLE NAME="Impressum_Inhalt" ALIGN="0" LINESPMode="1" LINESP="11" VOR="0" DROP="0" PSHORTCUT="Alt+2" CPARENT="Standard-Zeichenstil" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="8" FCOLOR="Black"/>
+        <STYLE NAME="Veranstaltungszeile" ALIGN="0" LINESPMode="0" LINESP="9" VOR="0" PSHORTCUT="Alt+2" CPARENT="Veranstalltungszeile">
+            <Tabs Type="0" Pos="43.1694" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="0" Pos="105" Fill=""/>
+            <Tabs Type="0" Pos="116" Fill=""/>
+            <Tabs Type="0" Pos="210" Fill=""/>
+            <Tabs Type="1" Pos="370" Fill=""/>
+        </STYLE>
+        <STYLE NAME="VeranstaltungsMonat" ALIGN="3" LINESPMode="0" LINESP="14" INDENT="10" NACH="3" PSHORTCUT="Alt+2" CPARENT="VeranstalltungsMonat"/>
+        <STYLE NAME="Editorial_Standard" ALIGN="3" LINESPMode="1" LINESP="12" INDENT="0" FIRST="0" VOR="4" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" PSHORTCUT="Alt+N" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="100" TXTULW="100" TXTSTP="100" TXTSTW="100" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="100" TXTULW="100" TXTSTP="100" TXTSTW="100" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <CHARSTYLE CNAME="Z_Seitenueberschrift" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FCOLOR="Rich Black" KERN="0"/>
+        <CHARSTYLE CNAME="Seitenzahlen" FONT="Frutiger LT 55 Roman Bold" FONTSIZE="9" FCOLOR="White" KERN="0"/>
+        <CHARSTYLE CNAME="Überschrift 1" CPARENT="Default Character Style" FONT="Frutiger LT 55 Roman Bold" FONTSIZE="13"/>
+        <CHARSTYLE CNAME="Überschrift 2" CPARENT="Überschrift 1" FONT="Frutiger LT 55 Roman Bold" FONTSIZE="11"/>
+        <CHARSTYLE CNAME="Veranstalltungszeile" CPARENT="Default Character Style" FONTSIZE="7" SHORTCUT="Ctrl+M"/>
+        <CHARSTYLE CNAME="VeranstalltungsMonat" CPARENT="Default Character Style" FONT="Frutiger LT 55 Roman Bold" FONTSIZE="12" FCOLOR="Black" SHORTCUT="Ctrl+Shift+M"/>
+        <CHARSTYLE CNAME="Standard-Zeichenstil" DefaultStyle="1" FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FCOLOR="Black" KERN="0" SHORTCUT="Ctrl+Shift+M"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="3" PDLanguage="3" markOffset="5" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="HP_LaserJet_3200M" filename="" separationName="Alle" printerCommand="">
+            <Separation Name="Cyan"/>
+            <Separation Name="Magenta"/>
+            <Separation Name="Gelb"/>
+            <Separation Name="Schwarz"/>
+        </Printer>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="1" RecalcPic="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="72" Resolution="300" Version="15" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" docInfoMarks="1" markOffset="5" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="FreeMono Bold"/>
+            <Fonts Name="Frutiger LT 55 Roman Bold"/>
+            <Fonts Name="Frutiger LT 55 Roman Bold Italic"/>
+            <Fonts Name="Frutiger LT 55 Roman Italic"/>
+            <Fonts Name="Frutiger LT 55 Roman Regular"/>
+            <Fonts Name="FreeSans Oblique"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="23" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="0" PAGEYPOS="0" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="0" NAM="Normal links" MNAM="" Size="A5" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <MASTERPAGE PAGEXPOS="0" PAGEYPOS="0" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="1" NAM="Normal rechts" MNAM="" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <MASTERPAGE PAGEXPOS="0" PAGEYPOS="0" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="2" NAM="Leer" MNAM="" Size="A5" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="5.6822e-260 8.73588e-259 7.62553e-259 3.68368e-260"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="0" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="0" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="708.67" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="1" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="708.67" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="2" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="1417.34" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="3" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="1417.34" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="4" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="2126.01" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="5" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="2126.01" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="6" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="2834.68" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="7" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="2834.68" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="8" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="3543.35" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="9" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="3543.35" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="10" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="4252.02" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="11" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="4252.02" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="12" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="4960.69" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="13" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="4960.69" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="14" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="5669.36" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="15" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="5669.36" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="16" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="6378.03" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="17" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="6378.03" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="18" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="7086.7" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="19" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="7086.7" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="20" NAM="" MNAM="Normal links" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 1.25622e-311 1.13021e-261 nan"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="7795.37" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="21" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="419.53" PAGEYPOS="7795.37" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="28" BORDERRIGHT="34" BORDERTOP="62" BORDERBOTTOM="25" NUM="22" NAM="" MNAM="Normal rechts" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="7.76097e-262 5.09279e-313 7.42494e-262 6.73906e-321"/>
+        <PAGE PAGEXPOS="0" PAGEYPOS="8504.04" PAGEWIDTH="419.53" PAGEHEIGHT="595.28" BORDERLEFT="34" BORDERRIGHT="28" BORDERTOP="62" BORDERBOTTOM="25" NUM="23" NAM="" MNAM="Leer" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="5.6822e-260 8.73588e-259 7.62553e-259 3.68368e-260"/>
+        <MASTEROBJECT OwnPage="1" PTYPE="6" XPOS="380.43" YPOS="582.98" WIDTH="32" HEIGHT="32" RADRECT="0" FRTYPE="4" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Ecke_unten_rechts" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.5" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="12" POCOOR="0 0 0 0 32 32 32 32 32 32 32 32 0 32 0 32 0 32 0 32 0 0 0 0 " NUMCO="12" COCOOR="0 0 0 0 32 32 32 32 32 32 32 32 0 32 0 32 0 32 0 32 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Normal rechts" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="2.12199999991051e-314" gYpos="nan" gWidth="2.12199999991051e-314" gHeight="nan" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <MASTEROBJECT OwnPage="0" PTYPE="6" XPOS="8" YPOS="550" WIDTH="32" HEIGHT="32" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Ecke_unten_link" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.498433" TransValueS="0.498433" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 17.0637 17.0636 17.0637 17.0636 17.0637 17.0636 17.0637 17.0636 32 32 32 32 32 32 32 32 0 32 0 32 0 32 0 32 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 17.0637 17.0636 17.0637 17.0636 17.0637 17.0636 17.0637 17.0636 32 32 32 32 32 32 32 32 0 32 0 32 0 32 0 32 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Normal links" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="7.25" gYpos="0" gWidth="39.25" gHeight="32.1947" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <MASTEROBJECT OwnPage="0" PTYPE="4" XPOS="5.5" YPOS="565" WIDTH="24.92" HEIGHT="20.19" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeMono Bold" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Seitenzahl_unten_links" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 24.92 0 24.92 0 24.92 0 24.92 0 24.92 20.19 24.92 20.19 24.92 20.19 24.92 20.19 0 20.19 0 20.19 0 20.19 0 20.19 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 24.92 0 24.92 0 24.92 0 24.92 0 24.92 20.19 24.92 20.19 24.92 20.19 24.92 20.19 0 20.19 0 20.19 0 20.19 0 20.19 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Normal links" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="11.8" gWidth="39.25" gHeight="32.1947" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno" FONT="FreeMono Bold" FONTSIZE="11" FCOLOR="White"/>
+            <para ALIGN="1"/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <MASTEROBJECT OwnPage="1" PTYPE="4" XPOS="389.08" YPOS="565" WIDTH="24" HEIGHT="20.3947" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeMono Bold" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 24 0 24 0 24 0 24 0 24 20.3947 24 20.3947 24 20.3947 24 20.3947 0 20.3947 0 20.3947 0 20.3947 0 20.3947 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 24 0 24 0 24 0 24 0 24 20.3947 24 20.3947 24 20.3947 24 20.3947 0 20.3947 0 20.3947 0 20.3947 0 20.3947 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Normal rechts" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="2.6157e-257" gYpos="1.7237e-257" gWidth="1.64758e-266" gHeight="8.55016997944406e-316" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno" FONT="FreeMono Bold" FONTSIZE="11" FCOLOR="White"/>
+            <para ALIGN="1"/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="34" YPOS="2186.01" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.87" LOCALSCY="0.87" LOCALX="-93.1034482758621" LOCALY="-277.011494252874" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Brunner" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Inserate/drogeriebrunner_frühling2011.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="8.48797999986469e-314" gYpos="2.7678500000166e-313" gWidth="4.17206e-309" gHeight="7.13439e-255" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="40.2394" YPOS="1276.81" WIDTH="508.862" HEIGHT="30" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" TXTFILL="White" TXTSTROKE="White" OpticalMargins="14" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="25" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Frutiger LT 55 Roman Bold Italic" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Balken_Impressum" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="20" TEXTRA="4" BEXTRA="1" REXTRA="10" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0.7" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 508.862 0 508.862 0 508.862 0 508.862 0 508.862 30 508.862 30 508.862 30 508.862 30 0 30 0 30 0 30 0 30 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 508.862 0 508.862 0 508.862 0 508.862 0 508.862 30 508.862 30 508.862 30 508.862 30 0 30 0 30 0 30 0 30 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="2.27270197086973e-322" gYpos="2.82225000000021e-311" gWidth="2.42092166462211e-322" gHeight="3.39519000001755e-313" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Frutiger LT 55 Roman Bold Italic" FONTSIZE="18" FEATURES="inherit shadowed" FCOLOR="White" SCOLOR="Black" SSHADE="100" CH="Nüüs vu Mullis Impressum"/>
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="75" YPOS="988.84" WIDTH="140" HEIGHT="287.41" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="15" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Impressum_2" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="10" BEXTRA="0" REXTRA="10" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 130 0 130 0 130 0 135.523 0 140 10 140 5.52285 140 10 140 10 140 277.41 140 277.41 140 277.41 140 282.933 130 287.41 135.523 287.41 130 287.41 130 287.41 10 287.41 10 287.41 10 287.41 5.52285 287.41 0 277.41 0 282.933 0 277.41 0 277.41 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 130 0 130 0 130 0 135.523 0 140 10 140 5.52285 140 10 140 10 140 277.41 140 277.41 140 277.41 140 282.933 130 287.41 135.523 287.41 130 287.41 130 287.41 10 287.41 10 287.41 10 287.41 5.52285 287.41 0 277.41 0 282.933 0 277.41 0 277.41 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.95302e-256" gYpos="1.96149e-256" gWidth="4.49943e+61" gHeight="6.36077000113861e-315" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Beiträge von:"/>
+            <para PARENT="Impressum_überschrift"/>
+            <ITEXT CH="N. Glar­ner"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="N. Acker"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="R. Haus­mann"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="M. Mei­li"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="P. Reu­mer"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="R. Bach­mann"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Fo­to­s:"/>
+            <para PARENT="Impressum_überschrift"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="R. Mül­ler"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="N. Acker"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="M. Mei­li"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="E. Baum­gart­ner"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT CH="R. Bach­mann"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Das Redaktionsteam dankt für die Einsendungen."/>
+            <para PARENT="Impressum_Inhalt"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Die Redaktion übernimmt keinerlei Verantwortung für die veröffentlichten Inhalte und behält sich Kürzungen vor."/>
+            <para PARENT="Impressum_Inhalt"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="75" YPOS="765.67" WIDTH="140" HEIGHT="219.213" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="15" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Impressum_1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="10" BEXTRA="0" REXTRA="10" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="15" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 130 0 130 0 130 0 135.523 0 140 10 140 5.52285 140 10 140 10 140 209.213 140 209.213 140 209.213 140 214.736 130 219.213 135.523 219.213 130 219.213 130 219.213 10 219.213 10 219.213 10 219.213 5.52285 219.213 0 209.213 0 214.736 0 209.213 0 209.213 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 130 0 130 0 130 0 135.523 0 140 10 140 5.52285 140 10 140 10 140 209.213 140 209.213 140 209.213 140 214.736 130 219.213 135.523 219.213 130 219.213 130 219.213 10 219.213 10 219.213 10 219.213 5.52285 219.213 0 209.213 0 214.736 0 209.213 0 209.213 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="4.24398999993235e-314" gYpos="4.24398999993235e-314" gWidth="6.36598999984286e-314" gHeight="4.24398999993235e-314" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Redaktion:"/>
+            <para PARENT="Impressum_überschrift"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Rolf Müller"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Markus Nöthiger"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Niklaus Giger-Gim"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Beiträge + Inserate an:"/>
+            <para PARENT="Impressum_überschrift"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Rolf Müller"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Mail: news@mollis.ch"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Layout (www.scribus.net)"/>
+            <para PARENT="Impressum_überschrift"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Niklaus Giger"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Druck"/>
+            <para PARENT="Impressum_überschrift"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Küng Druck AG, Näfels"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Redaktions- und In­se­ra­te­ein­sen­de­schluss:"/>
+            <para PARENT="Impressum_überschrift"/>
+            <ITEXT FCOLOR="Black" FSHADE="100" CH="Herbstausgabe:"/>
+            <breakline/>
+            <ITEXT CH="1. September 2011"/>
+            <para PARENT="Impressum_Inhalt"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="17" PTYPE="2" XPOS="28" YPOS="6699.03" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Wuschl" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Wuschl.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.28626e+248" gYpos="1.13844e-94" gWidth="4.98807e+258" gHeight="5.54489e+180" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="15" PTYPE="2" XPOS="28" YPOS="5732.36" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Moustache" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Coiffure_Moustache.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.52644000001159e-313" gYpos="4.94065645841247e-324" gWidth="6.16362999998746e-313" gHeight="2.96439387504748e-323" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="12" PTYPE="4" XPOS="453.53" YPOS="4272.02" WIDTH="358" HEIGHT="30" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Schulrat2_t1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 348 0 348 0 348 0 353.523 0 358 10 358 5.52285 358 10 358 10 358 20 358 20 358 20 358 25.5228 348 30 353.523 30 348 30 348 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 348 0 348 0 348 0 353.523 0 358 10 358 5.52285 358 10 358 10 358 20 358 20 358 20 358 25.5228 348 30 353.523 30 348 30 348 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="15" GRENDX="358" GRENDY="15" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Vor­schau"/>
+            <para PARENT="Seitenueberschrift"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="446.53" YPOS="728.67" WIDTH="335.625" HEIGHT="30" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Gemeinderat_t1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 325.625 0 325.625 0 325.625 0 331.148 0 335.625 10 335.625 5.52285 335.625 10 335.625 10 335.625 20 335.625 20 335.625 20 335.625 25.5228 325.625 30 331.148 30 325.625 30 325.625 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 325.625 0 325.625 0 325.625 0 331.148 0 335.625 10 335.625 5.52285 335.625 10 335.625 10 335.625 20 335.625 20 335.625 20 335.625 25.5228 325.625 30 331.148 30 325.625 30 325.625 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="9.66132e-229" gYpos="9.78999e-229" gWidth="9.3802e-172" gHeight="5.34082000242709e-315" GRSTARTX="0" GRSTARTY="15" GRENDX="335.625" GRENDY="15" PSTYLE="Seitenueberschrift" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Aus dem Ge­mein­de­haus Gla­rus-Nord"/>
+            <trail/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="213" YPOS="1479.34" WIDTH="179" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Salandi" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Salandi.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 179 0 179 0 179 0 179 0 179 249 179 249 179 249 179 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 179 0 179 0 179 0 179 0 179 249 179 249 179 249 179 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="2.82012999999977e-311" gYpos="2.82012999999977e-311" gWidth="3.81958999999965e-313" gHeight="2.78406000000024e-311" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="34" YPOS="1728.34" WIDTH="358" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Carrara" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Carrara_Haushaltgeraete.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 249 358 249 358 249 358 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 249 358 249 358 249 358 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.00656e-308" gYpos="4.45045e-307" gWidth="1.61325e-307" gHeight="4.45029e-308" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="34" YPOS="2435.01" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_ESG" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/ESG.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.52644000001159e-313" gYpos="4.94065645841247e-324" gWidth="6.16362999998746e-313" gHeight="2.96439387504748e-323" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="2" XPOS="34" YPOS="2896.68" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Elektro_Schindler" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Schindler.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="8.48797999986469e-314" gYpos="2.76683000000857e-313" gWidth="4.94065645841247e-324" gHeight="7.99912e-261" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="2" XPOS="34" YPOS="3145.68" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Funk" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Funk Bau AG.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.32344999817787e-315" gYpos="5.31600000206686e-315" gWidth="5.32344999817787e-315" gHeight="5.31600000206686e-315" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="2" XPOS="34" YPOS="4563.02" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.144" LOCALSCY="0.14244" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Leuzinger" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../2010_Herbst/Inserate/Inserat_Leuzinger_20091109.jpg" PFILE2="" PFILE3="" PRFILE="Embedded Dot Gain 15%" EPROF="Embedded Dot Gain 15%" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.00656e-308" gYpos="4.45045e-307" gWidth="1.61325e-307" gHeight="4.45029e-308" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="34" YPOS="1479.34" WIDTH="179" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Stucki" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Stucki_Baugeschaeft.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 179 0 179 0 179 0 179 0 179 249 179 249 179 249 179 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 179 0 179 0 179 0 179 0 179 249 179 249 179 249 179 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="41.1756" gYpos="3.28331e+41" gWidth="5.32720000089572e-315" gHeight="6.89874999998118e-314" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="447.53" YPOS="1437.34" WIDTH="335.625" HEIGHT="30" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Gemeinderat_t2" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 325.625 0 325.625 0 325.625 0 331.148 0 335.625 10 335.625 5.52285 335.625 10 335.625 10 335.625 20 335.625 20 335.625 20 335.625 25.5228 325.625 30 331.148 30 325.625 30 325.625 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 325.625 0 325.625 0 325.625 0 331.148 0 335.625 10 335.625 5.52285 335.625 10 335.625 10 335.625 20 335.625 20 335.625 20 335.625 25.5228 325.625 30 331.148 30 325.625 30 325.625 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="5.50118e-254" gYpos="9.40859999769191e-316" gWidth="5.09278999999536e-313" gHeight="5.34691e-254" GRSTARTX="0" GRSTARTY="15" GRENDX="335.625" GRENDY="15" PSTYLE="Seitenueberschrift" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Rück­blick"/>
+            <trail LINESPMode="1"/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="453.53" YPOS="2146.01" WIDTH="325.454545454545" HEIGHT="30" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Schule_t1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 315.455 0 315.455 0 315.455 0 320.977 0 325.455 10 325.455 5.52285 325.455 10 325.455 10 325.455 20 325.455 20 325.455 20 325.455 25.5228 315.455 30 320.977 30 315.455 30 315.455 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 315.455 0 315.455 0 315.455 0 320.977 0 325.455 10 325.455 5.52285 325.455 10 325.455 10 325.455 20 325.455 20 325.455 20 325.455 25.5228 315.455 30 320.977 30 315.455 30 315.455 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="9.40989998321925e-316" gYpos="4.24398999993235e-314" gWidth="0" gHeight="5.57657e-254" GRSTARTX="0" GRSTARTY="15" GRENDX="325.454545454545" GRENDY="15" PSTYLE="Seitenueberschrift" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Vor­schau"/>
+            <trail/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="10" PTYPE="4" XPOS="447.53" YPOS="3563.35" WIDTH="358" HEIGHT="30" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Schulrat_t1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 348 0 348 0 348 0 353.523 0 358 10 358 5.52285 358 10 358 10 358 20 358 20 358 20 358 25.5228 348 30 353.523 30 348 30 348 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 348 0 348 0 348 0 353.523 0 358 10 358 5.52285 358 10 358 10 358 20 358 20 358 20 358 25.5228 348 30 353.523 30 348 30 348 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="9.23295000161197e-315" gYpos="4.08281e-251" gWidth="2.22103000018213e-314" gHeight="4.12584e-251" GRSTARTX="0" GRSTARTY="15" GRENDX="358" GRENDY="15" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Aus dem Dor­fle­ben"/>
+            <para PARENT="Seitenueberschrift"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="2" XPOS="211" YPOS="5275.69" WIDTH="178" HEIGHT="258" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.936842105263158" LOCALSCY="0.936842105263158" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Wenger" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Fahrschule_PeterWenger.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 178 0 178 0 178 0 178 0 178 258 178 258 178 258 178 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 178 0 178 0 178 0 178 0 178 258 178 258 178 258 178 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="2" XPOS="33" YPOS="5275.69" WIDTH="178" HEIGHT="258" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1.05" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Buchli" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Buchli Fireshop.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 178 0 178 0 178 0 178 0 178 258 178 258 178 258 178 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 178 0 178 0 178 0 178 0 178 258 178 258 178 258 178 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="2" XPOS="33" YPOS="3856.85" WIDTH="358" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Kubli" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Maler_Kubli.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 249 358 249 358 249 358 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 249 358 249 358 249 358 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="15" PTYPE="2" XPOS="28" YPOS="5981.36" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Weber" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Alfred Weber.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="16" PTYPE="2" XPOS="447.53" YPOS="5981.36" WIDTH="357" HEIGHT="256" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="10" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Weiss" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Weiss Ofenbau.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 256 357 256 357 256 357 256 0 256 0 256 0 256 0 256 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 256 357 256 357 256 357 256 0 256 0 256 0 256 0 256 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="20" PTYPE="2" XPOS="632.53" YPOS="7382.7" WIDTH="179" HEIGHT="258" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1.05" LOCALSCY="1.05" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Amman" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Beck_Amman.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 179 0 179 0 179 0 179 0 179 258 179 258 179 258 179 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 179 0 179 0 179 0 179 0 179 258 179 258 179 258 179 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="0" Pos="39" Fill=""/>
+            <Tabs Type="0" Pos="72" Fill=""/>
+            <Tabs Type="0" Pos="101" Fill=""/>
+            <Tabs Type="0" Pos="131" Fill=""/>
+            <Tabs Type="0" Pos="164" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="16" PTYPE="2" XPOS="447.53" YPOS="5719.36" WIDTH="357" HEIGHT="262" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="-162" LOCALY="-283" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Beglinger" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Beglinger_Winter_08.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 262 357 262 357 262 357 262 0 262 0 262 0 262 0 262 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 262 357 262 357 262 357 262 0 262 0 262 0 262 0 262 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="2" XPOS="34" YPOS="4314.02" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Heka" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Heka.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="17" PTYPE="2" XPOS="28" YPOS="6450.03" WIDTH="357" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Müller" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Inserat_müller_Springbrunnen_2.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 357 0 357 0 357 0 357 0 357 249 357 249 357 249 357 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="228" YPOS="765.67" WIDTH="169" HEIGHT="518" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="11" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Frutiger LT 55 Roman Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Editorial" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 169 0 169 0 169 0 169 0 169 518 169 518 169 518 169 518 0 518 0 518 0 518 0 518 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 169 0 169 0 169 0 169 0 169 518 169 518 169 518 169 518 0 518 0 518 0 518 0 518 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Frutiger LT 55 Roman Bold" CH="Zum Ti­tel­bild"/>
+            <para PARENT="Editorial_Standard" ALIGN="3"/>
+            <ITEXT CH="Das Lay­out für das Nüüs vu Mul­lis ha­ben wir für die­se Num­mer leicht be­gra­dig­t und so hof­fent­lich noch et­was an­ge­neh­mer zum Le­sen ge­macht."/>
+            <para/>
+            <ITEXT CH="Der Linth hat man wie­der mehr Platz ge­ge­ben, da­mit Tie­re und Pflan­zen einen neu­en, ab­wechs­lungs­rei­chen Le­bens­raum fin­den. Das Ti­tel­bild gibt einen Ein­druck in das ein­drück­li­che Linth­werk. Wir hof­fen, dass es uns auch für die nächs­ten zwei­hun­dert Jah­re vor schwe­ren Über­schwem­mun­gen schütz­t."/>
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="447.53" YPOS="2854.68" WIDTH="358" HEIGHT="30" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Rückblick_t1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 348 0 348 0 348 0 353.523 0 358 10 358 5.52285 358 10 358 10 358 20 358 20 358 20 358 25.5228 348 30 353.523 30 348 30 348 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 348 0 348 0 348 0 353.523 0 358 10 358 5.52285 358 10 358 10 358 20 358 20 358 20 358 25.5228 348 30 353.523 30 348 30 348 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="15" GRENDX="358" GRENDY="15" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Rück­blick"/>
+            <para PARENT="Seitenueberschrift"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="20" PTYPE="2" XPOS="453.53" YPOS="7124.7" WIDTH="358" HEIGHT="258" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.18" LOCALSCY="0.18" LOCALX="138.888888888889" LOCALY="138.888888888889" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Insert_Löwen" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Inserate/Restaurant Löwen.tif" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 258 358 258 358 258 358 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 258 358 258 358 258 358 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="447.53" YPOS="770.67" WIDTH="358" HEIGHT="512" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="11" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Frutiger LT 55 Roman Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Wärmeverbund_1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 512 358 512 358 512 358 512 0 512 0 512 0 512 0 512 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 512 358 512 358 512 358 512 0 512 0 512 0 512 0 512 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="20" PTYPE="2" XPOS="453.53" YPOS="7382.7" WIDTH="179" HEIGHT="258" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Lütschg" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Speng_Luetschg.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 179 0 179 0 179 0 179 0 179 258 179 258 179 258 179 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 179 0 179 0 179 0 179 0 179 258 179 258 179 258 179 258 0 258 0 258 0 258 0 258 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="19" PTYPE="2" XPOS="34" YPOS="7394.03" WIDTH="356" HEIGHT="256" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.12" LOCALSCY="0.12" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Ins_Grünenfelder" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Inserate/HGFAG_Mollis_2011_sw.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 356 0 356 0 356 0 356 0 356 256 356 256 356 256 356 256 0 256 0 256 0 256 0 256 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 356 0 356 0 356 0 356 0 356 256 356 256 356 256 356 256 0 256 0 256 0 256 0 256 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="22" PTYPE="4" XPOS="447.53" YPOS="7814.37" WIDTH="372" HEIGHT="32" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Veranstaltungskalender_S29" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 362 0 362 0 362 0 367.523 0 372 10 372 5.52285 372 10 372 10 372 22 372 22 372 22 372 27.5228 362 32 367.523 32 362 32 362 32 10 32 10 32 10 32 5.52285 32 0 22 0 27.5228 0 22 0 22 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 362 0 362 0 362 0 367.523 0 372 10 372 5.52285 372 10 372 10 372 22 372 22 372 22 372 27.5228 362 32 367.523 32 362 32 362 32 10 32 10 32 10 32 5.52285 32 0 22 0 27.5228 0 22 0 22 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="16" GRENDX="372" GRENDY="16" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Veranstaltungskalender"/>
+            <para PARENT="Seitenueberschrift"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="21" PTYPE="2" XPOS="33.47" YPOS="8109.87" WIDTH="358" HEIGHT="253" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1.23" LOCALSCY="1.23" LOCALX="-33.3333333333333" LOCALY="-21.9512195121951" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Ins_Loner" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Inserate/Loner.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 253 358 253 358 253 358 253 0 253 0 253 0 253 0 253 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 253 358 253 358 253 358 253 0 253 0 253 0 253 0 253 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="21" PTYPE="2" XPOS="33.47" YPOS="7859.66" WIDTH="358" HEIGHT="256" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.86" LOCALSCY="0.86" LOCALX="-32.5581395348837" LOCALY="-29.0697674418605" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Ins_Giovanna" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Inserate/Giovanna_Sommer_2011.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 249 358 249 358 249 358 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 249 358 249 358 249 358 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="447.53" YPOS="770.67" WIDTH="358" HEIGHT="512" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="11" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Frutiger LT 55 Roman Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Dorfkultur" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 512 358 512 358 512 358 512 0 512 0 512 0 512 0 512 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 512 358 512 358 512 358 512 0 512 0 512 0 512 0 512 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Er­halt der Dorf­kul­tur"/>
+            <para PARENT="Ueberschrift_1" LINESPMode="2"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="„Kul­tur in den Dör­fern“, ei­ne Ar­beits­grup­pe der Ge­mein­de Gla­rus Nord."/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Ge­mein­de­rat Mar­co Kist­ler und Ste­ve Nann, der Be­reichs­lei­ter für Ge­sund­heit, Ju­gend und Kul­tur, hat­ten De­le­gier­te der Mol­li­ser Ver­ei­ne ein­ge­la­den und in­for­mier­ten über die ak­tu­el­le Si­tua­ti­on."/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Die Ar­beits­grup­pe „Kul­tur in den Dör­fern“ hat sich über­legt, wie die Ab­läu­fe in der neu­en Gross­ge­mein­de mög­lichst kurz ge­hal­ten wer­den kön­nen. So wur­den in je­dem Dorf Kom­mis­sio­nen ge­schaf­fen, wel­che die An­lie­gen der Dorf­ver­ei­ne an die Be­hör­den wei­ter­lei­ten. In Mol­lis ver­se­hen zur Zeit Ma­ri­an­ne Nef und Ba­sil Col­len­berg die­se Funk­ti­on."/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Wenn ein Ver­ein einen An­lass or­ga­ni­sie­ren will, muss er nicht mehr wer­weis­sen, ob er sich ans Bau­amt, ans EW oder an die Schul­be­hör­de wen­den soll, wenn er Fest­bän­ke oder Markt­stän­de oder ei­ne gan­ze Turn­hal­le braucht. Er mel­det sei­ne Be­dürf­nis­se mit ei­nem Ge­such der Dorf­kom­mis­si­on, und die­se in­for­miert die ent­spre­chen­den Stel­len. Ne­ben die­ser Ver­mitt­ler­tä­tig­keit kön­nen die Dorf­kom­mis­sio­nen na­tür­lich auch sel­ber ak­tiv wer­den, wenn es um den Er­halt von Spiel­plät­zen und oder um al­tes Brauch­tum wie Klaus­markt oder Fas­nacht­sum­zug geht. Die Dorf­kom­mis­si­on über­­nimmt al­so Auf­ga­ben, die frü­her der Ge­mein­de­rat als Kul­tur­för­de­rer hat­te. "/>
+            <para LINESPMode="2"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" SCALEH="100" SCALEV="100" BASEO="0" CH="Der Ge­mein­drat Gla­rus Nord ist ge­setz­lich ver­pflich­tet, für den Er­halt der Dorf­kul­tur zu sor­gen. Er kann sich aber nicht um je­den Ver­ein küm­mern. Ste­ve Nann: „Wir sind auf Ih­re Un­ter­stüt­zung an­ge­wie­sen. Mit der Schaf­fung der Dorf­kom­mis­sio­nen soll­te es mög­lich sein, der Kultur in den Dör­fern in ge­wohn­ter Wei­se Un­ter­stüt­zung zu ge­ben. Ab­läu­fe sol­len auf ein mi­ni­ma­les Mass ver­kürzt wer­den“ „Wir wol­len in­itia­ti­ven Leu­ten Stei­ne aus dem Weg räu­men“, mein­te Ge­mein­de­rat Mar­co Kist­ler. Die bei­den sind zu­ver­sicht­lich, dass auf die­sem Weg auch in Zu­kunft ein ak­ti­ves Ver­eins­le­ben in den Dör­fern er­hal­ten wer­den kann. "/>
+            <para LINESPMode="2"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="448.25" YPOS="913" WIDTH="280" HEIGHT="205.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.152793453724605" LOCALSCY="0.152793453724605" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Bild_Dorfkultur" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Bilder/Foto Dorfkultur-01.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 280 0 280 0 280 0 280 0 280 205.75 280 205.75 280 205.75 280 205.75 0 205.75 0 205.75 0 205.75 0 205.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 280 0 280 0 280 0 280 0 280 205.75 280 205.75 280 205.75 280 205.75 0 205.75 0 205.75 0 205.75 0 205.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="18" PTYPE="4" XPOS="453.53" YPOS="6440.03" WIDTH="370" HEIGHT="512" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="11" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Frutiger LT 55 Roman Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Veranstaltungskalender_1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 512 370 512 370 512 370 512 0 512 0 512 0 512 0 512 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 512 370 512 370 512 370 512 0 512 0 512 0 512 0 512 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="39" BACKITEM="-1">
+            <ITEXT FONTSIZE="7" FEATURES="inherit" CH="Familientreff Summervogel jeden Di  + Do ausser Schulferien 13.30-17.30 Treff / Hüeti"/>
+            <tab FONTSIZE="7" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="7" FEATURES="inherit" CH="Unterkilchen"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black" CH="Familientreff Summervogel jeden Mo + Mi ausser Schulferien 09.00-11.00  Krabbelgruppe"/>
+            <tab FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black" CH="Unterkilchen"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black" CH="Familientreff Summervogel"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" CH=" jeden 2. + 4. Donnerstag"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black" CH=" ausser Schulferien "/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" CH="13.30-16.00"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black" CH=" "/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" CH="Mütterberatung"/>
+            <tab FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black"/>
+            <ITEXT FONT="Frutiger LT 55 Roman Regular" FONTSIZE="7" FCOLOR="Black" CH="Unterkilchen"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="Juni 2011"/>
+            <para PARENT="VeranstaltungsMonat"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="24."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Landfrauen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bräteln "/>
+            <tab FONTSIZE="7"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="25."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="19.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Männerchor Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Risottoabend"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Steinacherpl. Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sa. + So."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="25./26."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Musikgesellschaft Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Eidgenössisches Musikfest"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="St.Gallen"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="26."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Harmoniemusik Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Ständchen beim Altersheim"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Altersheim Letz"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="26."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="10.00/11.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Cäcilienchor Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Einsiedler Wallfahrt"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Einsiedeln"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="26."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="10.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Velo-Club Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bike-Tour"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Start: Ciclosport"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Dienstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="28."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Cäcilienchor Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Brätlete"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Näfels"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Dienstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="28."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="19.15"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Monatsübung"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Sek-Schulhaus"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="29."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Harmoniemusik Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Quartierkonzert"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Fahrtplatz Näfels"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="Juli"/>
+            <tab/>
+            <ITEXT CH="2011"/>
+            <para PARENT="VeranstaltungsMonat"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="02."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Männerchor"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Versch.Datum Risottoabend"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Steinacherpl.Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="02."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="ab 20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Einschellerver.Grosstal-Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Oberseefäscht"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Obersee-Stafel Näfels"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="03."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Verkehrsverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Blüemlitour"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mullern/Fronalp"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sa. + So."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="09. + 10."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Hunterverein"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Zigermeet / Patrouille Suisse"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Flugplatz"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="August"/>
+            <tab/>
+            <ITEXT CH="2011"/>
+            <para PARENT="VeranstaltungsMonat"/>
+            <ITEXT FONTSIZE="7" CH="Montag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="01."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="abends"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Skiclub Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Höhenfeuer Fronalp"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Fronalpstock"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Montag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="01."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="am Morgen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Harmoniemusik Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bundesfeier"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Freulergarten"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Montag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="01."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Verkehrsverein Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Nationalfeier"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Näfels"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="12."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Skiclub Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Armbrust-Schiessen"/>
+            <tab FONTSIZE="7"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="14."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="09.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Schützen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mullernschiessen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis - Mullern"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="14."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="09.45/10.45"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Cäcilienchor Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Alp-Gottesdienst"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Obersee"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="19."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Musikgesellschaft Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="1. Probe nach den Ferien"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Kant.Veteranenschütkzen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Kant.Veteranenschiessen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Näfels"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sa. + So."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20. + 21."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="US-Car"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Treffen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Flugplatz Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="26."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Landfrauen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Lottomatch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Stockhaus"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="27."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Harmoniemusik Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="24. Geburtstagskonzert"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Altersheim"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="27."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Tennisclub Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Nationaler Tennistag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Tennisplatz"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="28."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="07.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Velo-Club Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Rennvelo-Tour"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Start: Ciclosport"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="28."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="ab 09.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Männerturnverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="British - Car"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Flugplatz"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Dienstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="30."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Monatsübung"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Sek-Schulhaus"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="September"/>
+            <tab/>
+            <ITEXT CH="2011"/>
+            <para PARENT="VeranstaltungsMonat"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="10."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="14.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Verkehrsverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Dorf-Führung"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Haltli Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="10."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Skiclub Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Dorfstafette"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="10."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Männerchor Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bowlingabend"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Niederurnen"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="11."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="08.15/09.15"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Cäcilienchor Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chilbi"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Pfarrkirche Näfels"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="14."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="13.30-15.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bastelnachmittag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Unterkilchen Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Fr. + Sa."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="16. + 17."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="19.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Nothilfekurs"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Sek-Schulhaus"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="17."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="14.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Schützen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Endschiessen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Feldbach,Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="17."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Feuerwerhverein Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Ausflug "/>
+            <tab FONTSIZE="7"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="18."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Männerchor Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bettag-Singen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Pfarrkirche Näfels"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="18."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Harmoniemusik Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Ausflug- und Wandertag"/>
+            <tab FONTSIZE="7"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="24."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Skilift Schilt"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Pistensäuberung"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Fronalp"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="25."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="09.45/10.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Cäcilienchor Näfels"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Erntedankgottesdienst"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Dienstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="27."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Samariterverein Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Monatsübung"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Sek-Schulhaus"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Freitag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="30."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="20.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Landfrauen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Zusammenkunft"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Raben"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT CH="Oktober"/>
+            <tab/>
+            <ITEXT CH="2011"/>
+            <para PARENT="VeranstaltungsMonat"/>
+            <ITEXT FONTSIZE="7" CH="Samstag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="01."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="13.00"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Schützen Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Chilbischiessen"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Feldbach,Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sa. + So."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="01. + 02."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="diverse Molliser Vereine"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Dorf-Chilbi Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Dorf u. MZH"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Sonntag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="02."/>
+            <tab FONTSIZE="7"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Männerchor Mollis"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Erntedankfest"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="ref.Kirche Mollis"/>
+            <para PARENT="Veranstaltungszeile"/>
+            <ITEXT FONTSIZE="7" CH="Mittwoch"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="05."/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="13.30-15.30"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Familientreff Summervogel"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Bastelnachmittag"/>
+            <tab FONTSIZE="7"/>
+            <ITEXT FONTSIZE="7" CH="Unterkilchen Mollis"/>
+            <trail PARENT="Veranstaltungszeile"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="22" PTYPE="4" XPOS="454.53" YPOS="7857.37" WIDTH="370" HEIGHT="79.3700000000008" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="0" TXTSHY="0" TXTOUT="0" TXTULP="0" TXTULW="0" TXTSTP="0" TXTSTW="0" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="11" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Frutiger LT 55 Roman Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Veranstaltungskalender_2" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 79.37 370 79.37 370 79.37 370 79.37 0 79.37 0 79.37 0 79.37 0 79.37 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 79.37 370 79.37 370 79.37 370 79.37 0 79.37 0 79.37 0 79.37 0 79.37 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="38">
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="18" PTYPE="4" XPOS="447.53" YPOS="6397.03" WIDTH="372" HEIGHT="32" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Veranstaltungskalender_t1" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 362 0 362 0 362 0 367.523 0 372 10 372 5.52285 372 10 372 10 372 22 372 22 372 22 372 27.5228 362 32 367.523 32 362 32 362 32 10 32 10 32 10 32 5.52285 32 0 22 0 27.5228 0 22 0 22 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 362 0 362 0 362 0 367.523 0 372 10 372 5.52285 372 10 372 10 372 22 372 22 372 22 372 27.5228 362 32 367.523 32 362 32 362 32 10 32 10 32 10 32 5.52285 32 0 22 0 27.5228 0 22 0 22 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="16" GRENDX="372" GRENDY="16" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Veranstaltungskalender"/>
+            <para PARENT="Seitenueberschrift"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="19" PTYPE="2" XPOS="34" YPOS="7128.03" WIDTH="356" HEIGHT="266" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.8926174497" LOCALSCY="0.8926174497" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Frischknecht" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../2010_Herbst/Inserate/Inserat_AFrischknecht.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 356 0 356 0 356 0 356 0 356 266 356 266 356 266 356 266 0 266 0 266 0 266 0 266 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 356 0 356 0 356 0 356 0 356 266 356 266 356 266 356 266 0 266 0 266 0 266 0 266 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="2" XPOS="33" YPOS="3607.85" WIDTH="358" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.18" LOCALSCY="0.18" LOCALX="111.111111111111" LOCALY="55.5555555555556" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Bären" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Inserate/Inserat_Bären.tif" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 249 358 249 358 249 358 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358 0 358 0 358 0 358 0 358 249 358 249 358 249 358 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="2" XPOS="33" YPOS="5026.01" WIDTH="356" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.8" LOCALSCY="0.8" LOCALX="25" LOCALY="-25" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Femina" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Inserate/Inserat_Femina.pdf" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 356 0 356 0 356 0 356 0 356 249 356 249 356 249 356 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 356 0 356 0 356 0 356 0 356 249 356 249 356 249 356 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="23" PTYPE="2" XPOS="11.5" YPOS="8523.5" WIDTH="398" HEIGHT="565.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.19917" LOCALSCY="0.19917" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Inserat_Ronner" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Inserate/Inserat_Ronner.tif" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 398 0 398 0 398 0 398 0 398 565.25 398 565.25 398 565.25 398 565.25 0 565.25 0 565.25 0 565.25 0 565.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 398 0 398 0 398 0 398 0 398 565.25 398 565.25 398 565.25 398 565.25 0 565.25 0 565.25 0 565.25 0 565.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="14" PTYPE="4" XPOS="447.53" YPOS="4980.69" WIDTH="358" HEIGHT="30" RADRECT="10" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Rich Black" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="1" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Rückblick_t4" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="10" TEXTRA="6" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="10 0 10 0 348 0 348 0 348 0 353.523 0 358 10 358 5.52285 358 10 358 10 358 20 358 20 358 20 358 25.5228 348 30 353.523 30 348 30 348 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMCO="32" COCOOR="10 0 10 0 348 0 348 0 348 0 353.523 0 358 10 358 5.52285 358 10 358 10 358 20 358 20 358 20 358 25.5228 348 30 353.523 30 348 30 348 30 10 30 10 30 10 30 5.52285 30 0 20 0 25.5228 0 20 0 20 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="15" GRENDX="358" GRENDY="15" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Rück­blick"/>
+            <para PARENT="Seitenueberschrift" LINESPMode="1"/>
+            <Tabs Type="1" Pos="74" Fill=""/>
+            <Tabs Type="1" Pos="101" Fill=""/>
+            <Tabs Type="1" Pos="167" Fill=""/>
+            <CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="0.4"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="0.1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
