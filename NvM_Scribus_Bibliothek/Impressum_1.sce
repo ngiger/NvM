@@ -1,0 +1,56 @@
+<SCRIBUSELEMUTF8 W="140" H="219.213" previewData="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" YP="62" XP="75" COUNT="1" Version="1.3.5.rc2" >
+ <FONT NAME="Andale Mono Regular" />
+ <FONT NAME="FreeMono Bold" />
+ <FONT NAME="FreeSans Medium" />
+ <FONT NAME="Frutiger LT 55 Roman Regular" />
+ <FONT NAME="Frutiger LT 55 Roman Bold" />
+ <FONT NAME="Frutiger LT 55 Roman Bold Italic" />
+ <FONT NAME="Frutiger LT 55 Roman Italic" />
+ <FONT NAME="Frutiger LT 55 Roman Regular" />
+ <COLOR Spot="0" Register="0" NAME="Black" CMYK="#000000ff" />
+ <COLOR Spot="0" RGB="#ffffff" Register="0" NAME="FromEPS#ffffff" />
+ <COLOR Spot="0" Register="0" NAME="Rich Black" CMYK="#996666ff" />
+ <COLOR Spot="0" Register="0" NAME="White" CMYK="#00000000" />
+ <COLOR Spot="0" RGB="#966432" Register="0" NAME="undef" />
+ <STYLE SCALEV="100" SCOLOR="Black" ALIGN="0" TXTSTP="0" TXTSHX="0" TXTSHY="0" FSHADE="100" INDENT="0" TXTSTW="0" EFFECT="0" VOR="6" NACH="0" LINESPMode="1" FCOLOR="Black" DROP="0" TXTULP="0" SCALEH="100" TXTULW="0" KERN="0" DROPLIN="2" NAME="Impressum_überschrift" FONT="Frutiger LT 55 Roman Italic" LINESP="11.0000000000000" SSHADE="100" FIRST="0" BASE="0" FONTSIZE="9" DROPDIST="0" TXTOUT="0" BASEO="0" >
+  <Tabs Fill="" Type="1" Pos="74" />
+  <Tabs Fill="" Type="1" Pos="101" />
+  <Tabs Fill="" Type="1" Pos="167" />
+ </STYLE>
+ <STYLE SCALEV="100" SCOLOR="Black" ALIGN="0" TXTSTP="0" TXTSHX="0" TXTSHY="0" FSHADE="100" INDENT="0" TXTSTW="0" EFFECT="0" VOR="0" NACH="0" LINESPMode="1" FCOLOR="Black" DROP="0" TXTULP="0" SCALEH="100" TXTULW="0" KERN="0" DROPLIN="2" NAME="Impressum_Inhalt" FONT="Frutiger LT 55 Roman Regular" LINESP="11.0000000000000" SSHADE="100" FIRST="0" BASE="0" FONTSIZE="8" DROPDIST="0" TXTOUT="0" BASEO="0" >
+  <Tabs Fill="" Type="1" Pos="74" />
+  <Tabs Fill="" Type="1" Pos="101" />
+  <Tabs Fill="" Type="1" Pos="167" />
+ </STYLE>
+ <ITEM TXTULW="100" POCOOR="10 0 10 0 130 0 130 0 130 0 135.523 0 140 10 140 5.52285 140 10 140 10 140 209.213 140 209.213 140 209.213 140 214.736 130 219.213 135.523 219.213 130 219.213 130 219.213 10 219.213 10 219.213 10 219.213 5.52285 219.213 0 209.213 0 214.736 0 209.213 0 209.213 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " ANNAME="Impressum_1" RADRECT="10" TXTSTP="100" GRTYP="0" PCOLOR="Black" TXTSTW="100" ALIGN="3" BACKITEM="-1" WIDTH="140" XPOS="75" EXTRA="10" relativePaths="1" TopLine="0" NEXTITEM="-1" PRINTABLE="1" HEIGHT="219.213" BASEOF="0" isTableItem="0" LANGUAGE="" BACKPAGE="-1" TEXTFLOWMODE="0" TransBlendS="0" IFONT="Frutiger LT 55 Roman Regular" TXTSCALEV="100" textPathFlipped="0" BottomLine="0" PLINEEND="0" BEXTRA="0" GROUPS="" TransBlend="15" NAMEDLST="" TXTOUT="1" AUTOTEXT="0" startArrowIndex="0" PICART="1" YPOS="62" NEXTPAGE="-1" isGroupControl="0" NUMCO="32" ISIZE="9" LOCALSCX="1" TXTSCALE="100" LOCK="0" LOCALSCY="1" PRFILE="" TransValueS="0" doOverprint="0" TXTBASE="0" IRENDER="1" fillRule="1" TEXTRA="10" FLOP="0" LINESPMode="1" ROT="0" textPathType="0" RATIO="1" PLINEART="1" TXTSTYLE="0" PCOLOR2="Black" COLUMNS="1" TXTSHX="5" TXTKERN="0" TXTSHY="-5" PTYPE="4" LINESP="10" TXTSTROKE="Black" ANNOTATION="0" PLTSHOW="0" DASHS="" BOOKMARK="0" REXTRA="10" LOCKR="1" DASHOFF="0" LOCALX="0" CLIPEDIT="0" ImageClip="" LOCALY="0" EPROF="" FLIPPEDH="0" SHADE2="100" LeftLine="0" PLINEJOIN="0" NUMDASH="0" PFILE2="" PFILE3="" TXTFILLSH="100" TXTFILL="Black" TXTSTRSH="100" PWIDTH="1" COCOOR="10 0 10 0 130 0 130 0 130 0 135.523 0 140 10 140 5.52285 140 10 140 10 140 209.213 140 209.213 140 209.213 140 214.736 130 219.213 135.523 219.213 130 219.213 130 219.213 10 219.213 10 219.213 10 219.213 5.52285 219.213 0 209.213 0 214.736 0 209.213 0 209.213 0 10 0 10 0 10 0 5.52285 10 0 5.52285 0 " FLIPPEDV="0" RightLine="0" TEXTFLOW="0" SHADE="15" NUMGROUP="0" endArrowIndex="0" COLGAP="0" SCALETYPE="1" EMBEDDED="1" TEXTFLOW2="0" TEXTFLOW3="0" TransValue="0" TXTULP="100" REVERS="0" FRTYPE="2" NUMPO="32" >
+  <Tabs Fill="" Type="1" Pos="74" />
+  <Tabs Fill="" Type="1" Pos="101" />
+  <Tabs Fill="" Type="1" Pos="167" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_überschrift" CH="Redaktion:" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_überschrift" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_Inhalt" CH="Rolf Müller" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_Inhalt" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_Inhalt" CH="Markus Nöthiger" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_Inhalt" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_Inhalt" CH="Niklaus Giger-Gim" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_Inhalt" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_überschrift" CH="Beiträge + Inserate an:" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_überschrift" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_Inhalt" CH="Rolf Müller" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_Inhalt" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_Inhalt" CH="Mail: news@mollis.ch" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_Inhalt" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_überschrift" CH="Layout (www.scribus.net)" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_überschrift" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_Inhalt" CH="Niklaus Giger" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_Inhalt" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_überschrift" CH="Druck" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_überschrift" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_Inhalt" CH="Küng Druck AG, Näfels" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_Inhalt" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_überschrift" CH="Redaktions- und Inserateeinsendeschluss:" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_überschrift" />
+  <ITEXT CCOLOR="Black" PSTYLE="Impressum_Inhalt" CH="Hebstausgabe: 1. 9. 2009" CSHADE="100" CSTYLE="0" />
+  <PARA PARENT="Impressum_Inhalt" />
+ </ITEM>
+</SCRIBUSELEMUTF8>
